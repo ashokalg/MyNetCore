@@ -1,0 +1,2 @@
+# MyNetCore
+Core .net
